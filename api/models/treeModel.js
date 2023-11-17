@@ -37,4 +37,4 @@ const TreeSchema = new Schema({
     },
 })
 
-module.exports = mongoose.model("Tree", TreeSchema)
+module.exports = mongoose.model("Trees", TreeSchema)
