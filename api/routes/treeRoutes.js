@@ -1,4 +1,3 @@
-// const mongoose = require('mongoose')
 const Trees = require('../controllers/treeContoller')
 
 module.exports = function(app) {

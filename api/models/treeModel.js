@@ -20,9 +20,6 @@ const TreeSchema = new Schema({
     "Tree_State": {
         type: String,
     },
-    "TreeID": {
-        type: Number,
-    },
     "PhotoLink": {
         type: String,
     },
